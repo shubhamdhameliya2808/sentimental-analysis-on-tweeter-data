@@ -97,6 +97,8 @@ In this project, first I have collected the data and stored them in a file then 
 ## Authors
 
 shubham dhameliya
+Manan Gadhiya
+Kapil Kapuriya
 
 ## License
 
