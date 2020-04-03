@@ -91,7 +91,7 @@ In this project, first I have collected the data and stored them in a file then 
 ![alt text](image/5.PNG)
 
 ### output 2:
-![alt text](image/6.png)
+![alt text](image/6.PNG)
 
 
 ## Authors
