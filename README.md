@@ -87,52 +87,18 @@ In this project, first I have collected the data and stored them in a file then 
 
 ## Expected output:
 
-![alt text](image/5.png"Output 1:")
-![alt text](image/6.png"Output 2:")
+### outpu1 :
+![alt text](image/5.PNG)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Expected output:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### output 2:
+![alt text](image/6.PNG)
 
 
 ## Authors
 
-shubham dhameliya
+* shubham Dhameliya
+* Manan Gadhiya
+* Kapil Kapuriya
 
 ## License
 
