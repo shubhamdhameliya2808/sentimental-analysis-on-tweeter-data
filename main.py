@@ -9,10 +9,10 @@ class Sentiment_Analysis:
     def fatchdata(self):
         self.tweets = []
         self.tweetText = []
-        consumerKey = "EF515HQsOYd38QXEV53EsLJXV"
-        consumerSecret = "yLApadttxDnwsmBW6bcls4y9HOtyVSKwOcL1NC4z22214MRteD"
-        accessToken = "880669580582162436-dvs5Alprfw4TdjXsIVRLPAcVq0vb0kc"
-        accessTokenSecret ="HzNL4KLw64U64mki9rYzlVeref4jAflvbQQFiWeCKgy3a"
+        consumerKey = "your_key"
+        consumerSecret = "your_key"
+        accessToken = "your_key"
+        accessTokenSecret ="your_key"
         auth = tweepy.OAuthHandler(consumerKey, consumerSecret)
         auth.set_access_token(accessToken, accessTokenSecret)
         api = tweepy.API(auth)
