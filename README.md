@@ -87,8 +87,8 @@ In this project, first I have collected the data and stored them in a file then 
 
 ## Expected output:
 
-![alt text](image/5.PNG"Output 1:")
-![alt text](image/6.PNG"Output 2:")
+![alt text](image/5.PNG)
+![alt text](image/6.pn)
 
 
 ## Authors
