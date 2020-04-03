@@ -81,7 +81,7 @@ Here N is basically a number. N-Gram is basically a chunk of words in the group.
 
 
 ## Working Process:
-![alt text](image/4.png)
+![alt text](image/4.png)                                                                                                                  
 In this project, first I have collected the data and stored them in a file then read the data from the file and word tokenized them using python’s Natural Language Toolkit Library(nltk). There is a list available of positive and negative words on internet that will have all the negative or positive words, stored the words in the dataframe and then compared words of my tweets with the respective words in positive and negative dataframes and generated net positive score and negative score for each( I have collected 200 tweets(as twitter maximum limit is 200 tweets at a time) about ‘Narendra Modi’ and ‘Arvind Kejriwal’ and then analyzing them and displaying the final result in a pie chart to determine whether people are speaking about whom Narendra Modi or Arvind Kejriwal ).
 
 
@@ -96,9 +96,7 @@ In this project, first I have collected the data and stored them in a file then 
 
 ## Authors
 
-shubham dhameliya
-Manan Gadhiya
-Kapil Kapuriya
+shubham dhameliya                                                                                                                      Manan Gadhiya                                                                                                                           Kapil Kapuriya
 
 ## License
 
